@@ -20,6 +20,7 @@
   "homepage": "https://github.com/AARUSHI7-BYTE/Evaluation#readme",
   "dependencies": {
     "@supabase/supabase-js": "^2.93.3",
-    "express": "^5.2.1"
+    "express": "^5.2.1",
+    "express-rate-limiter": "^1.3.1"
   }
 }
